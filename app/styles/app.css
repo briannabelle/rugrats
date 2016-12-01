@@ -1,0 +1,48 @@
+ .container {
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+.logo {
+	display: block;
+	height: 150px;
+	margin: 0 auto;
+}
+
+nav {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	font-family: 'Indie Flower', cursive;
+	color: #000;
+	font-size: 40px;
+	padding: 0 20px;
+}
+
+img {
+	display: block;
+	height: 350px;
+	margin: 30px auto;
+}
+
+a:nth-child(1):hover {
+	color: #727ebd;
+}
+
+a:nth-child(2):hover {
+	color: #4fb846;
+}
+
+a:nth-child(3):hover {
+	color: #fad549;
+}
+
+a:nth-child(4):hover {
+	color: #eb4742;
+}
+
+a:nth-child(5):hover {
+	color: #507cc4;
+}
